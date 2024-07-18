@@ -1,0 +1,23 @@
+{
+    "users": [{
+        "id": 1,
+        "username": "UyDev",
+        "email": "lequocuyit@gmail.com",
+        "fullname": "Le Quoc Uy",
+        "role": 1
+      },{
+        "id": 2,
+        "username": "UsernameA",
+        "email": "nguyenvana@gmail.com",
+        "fullname": "NguyenVanA",
+        "role": 2
+      }],
+      
+    "roles": [{
+        "id": 1,
+        "name": "Admin"
+    },{
+        "id": 2,
+        "name": "User"
+    }]
+}
